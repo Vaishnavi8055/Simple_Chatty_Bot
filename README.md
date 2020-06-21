@@ -1,4 +1,4 @@
- <h1>Simple_Chatty_Bot<h1>
+ <h1>Simple_Chatty_Bot</h1>
 
 <p> This is a Simple ChatBot and its functions are : </p>
 <ol>
